@@ -19,7 +19,7 @@ go run cmd/main.go
 PORT=3000 go run cmd/main.go
 ```
 
-### Json файл
+### Пример файла для ввода
 
 ```json
 {
