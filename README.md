@@ -101,6 +101,6 @@ curl --location 'localhost/api/v1/calculate' \
 Ответ:
 ```json
 {
-err: internal server error
+"err": "internal server error"
 }
 ```
