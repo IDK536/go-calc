@@ -88,7 +88,7 @@ func TestCalcHandlerSuccessCase(t *testing.T) {
 			body:       nil,
 			statusCode: 500,
 			expectedResult: `EOF
-internal server error`,
+err: internal server error`,
 		},
 	}
 	for _, testCase := range testCasesSuccess {
